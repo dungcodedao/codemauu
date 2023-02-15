@@ -1,2 +1,2 @@
-# qlsvTH27.26
+# code của Dũng
 đồ án của Dũng
